@@ -1728,10 +1728,10 @@
     "@tryghost/errors" "^1.2.12"
     jest-snapshot "^28.0.0"
 
-"@tryghost/job-manager@0.8.24":
-  version "0.8.24"
-  resolved "https://registry.yarnpkg.com/@tryghost/job-manager/-/job-manager-0.8.24.tgz#4d0e7cf9bb6836f08905b33e783895874a2053d8"
-  integrity sha512-KgJJyJomB8CxlaSebqZolZobLgp90Jeo6VB/wW90CI1kz0tIkmlvuPsMfoWKDd42d5vJKMcW31Vsh8b2Kl4l5A==
+"@tryghost/job-manager@0.8.25":
+  version "0.8.25"
+  resolved "https://registry.yarnpkg.com/@tryghost/job-manager/-/job-manager-0.8.25.tgz#9c208e4fa4ca4719c64a432b67039396cfdc0796"
+  integrity sha512-gkhhfWZFcpsfS4NqECqJvDIi8yIR+V7dngSsT9N011BOriwu5jr/weoGkGhIkZdIK79GNzVIHR9PBaAAEjZXNw==
   dependencies:
     "@breejs/later" "^4.0.2"
     "@tryghost/logging" "^2.0.0"
